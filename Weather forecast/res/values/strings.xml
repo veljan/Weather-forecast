@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WeatherForecast!</string>
+    <string name="app_name">Weather forecast</string>
+    <string-array name="gradovi">
+		<item>Nis</item>
+		<item>Beograd</item>
+		<item>Novi Sad</item>
+	</string-array>
+	<string name="gradPrompt">Izaberi grad</string>
+	<style name="CustomTheme" >
+    	<item name="android:windowBackground">@drawable/background</item>
+    </style>
+</resources>
